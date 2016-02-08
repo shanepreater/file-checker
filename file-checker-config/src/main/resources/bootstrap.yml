@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: file-check-config
+encrypt:
+  failOnError: false
+  keyStore:
+    location: classpath:keystore.jks
+    password: ${KEYSTORE_PASSWORD:foobar}
+    alias: test

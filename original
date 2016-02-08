@@ -1,0 +1,33 @@
+declare -x Apple_PubSub_Socket_Render="/private/tmp/com.apple.launchd.JTGYMa3bTA/Render"
+declare -x DISPLAY="/private/tmp/com.apple.launchd.DVijUgvULd/org.macosforge.xquartz:0"
+declare -x DOCKER_CERT_PATH="/Users/shanepreater/.docker/machine/machines/local"
+declare -x DOCKER_ENGINE_NAME="default
+local
+swarm-master
+swarm-node-00
+swarm-node-01"
+declare -x DOCKER_HOST="tcp://192.168.99.100:2376"
+declare -x DOCKER_MACHINE_NAME="local"
+declare -x DOCKER_TLS_VERIFY="1"
+declare -x HOME="/Users/shanepreater"
+declare -x JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home"
+declare -x LANG="en_GB.UTF-8"
+declare -x LOGNAME="shanepreater"
+declare -x MVN_HOME="/etc/apache-maven-3.2.3"
+declare -x OLDPWD="/Users/shanepreater/development/git/file-checker/file-checker-discovery-service/target/docker"
+declare -x PATH="/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/etc/apache-maven-3.2.3/bin:/etc/apache-maven-3.2.3/bin"
+declare -x PWD="/Users/shanepreater/development/git/file-checker"
+declare -x SECURITYSESSIONID="186a7"
+declare -x SHELL="/bin/bash"
+declare -x SHLVL="1"
+declare -x SSH_AUTH_SOCK="/private/tmp/com.apple.launchd.rUTB587ZRj/Listeners"
+declare -x TERM="xterm-256color"
+declare -x TERM_PROGRAM="Apple_Terminal"
+declare -x TERM_PROGRAM_VERSION="361.1"
+declare -x TERM_SESSION_ID="18728F91-1A38-4B39-B5AB-35131739E5CD"
+declare -x TMPDIR="/var/folders/k3/b0ssx3p92cj0fj8fc68hb0z00000gn/T/"
+declare -x USER="shanepreater"
+declare -x XPC_FLAGS="0x0"
+declare -x XPC_SERVICE_NAME="0"
+declare -x __CF_USER_TEXT_ENCODING="0x1F5:0x0:0x0"
+declare -x export
